@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Urvish Pandya 👋</h1>
 <h3 align="center">Full Stack Developer | AI and ML Enthusiast | Quick Learner</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" width="250" />
-</p>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
 ---
 
@@ -24,7 +22,7 @@ I'm **Urvish Pandya**, a passionate developer currently working as a **Full Stac
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,33 +41,6 @@ I'm **Urvish Pandya**, a passionate developer currently working as a **Full Stac
 **Tools**  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🔥 Featured Projects
-
-🔹 **[RD and Maturity Calculation Chatbot](https://github.com/urvish2930/RD-and-Maturity-calulation-chatbot)**  
-A chatbot that calculates Recurring Deposit maturity using ChatGPT.  
-**Tech:** React, Node.js, Express, OpenAI API, MongoDB
-
-🔹 **[Urvish Portfolio](https://github.com/urvish2930/Urvish-Portfolio)**  
-My personal portfolio showcasing projects, skills, and resume.  
-**Tech:** React, Tailwind CSS
-
-🔹 **[Car Racing Game](https://github.com/urvish2930/Car-Racing-Game)**  
-A simple racing game with keyboard controls and collision logic.  
-**Tech:** HTML, CSS, JavaScript
-
-🔹 **[Esportnewz Website](https://github.com/urvish2930/Esportnewz-Website)**  
-A news platform UI for eSports fans.  
-**Tech:** HTML, CSS, Bootstrap
-
-🔹 **[Student Performance Prediction](https://github.com/urvish2930/Student-Performance-prediction)**  
-A machine learning model that predicts student success using dataset features.  
-**Tech:** Python, Scikit-learn, Pandas, Matplotlib
-
-> 🔗 [Explore all repositories »](https://github.com/urvish2930?tab=repositories)
 
 ---
 
